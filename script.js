@@ -5,8 +5,8 @@ const comunicati = [
   {
     data: "12 Novembre 2025",
     titolo: "«La ricerca non si fa a tempo determinato» Precari in Campo (CREA) in piazza a Roma per chiedere stabilizzazioni e investimenti nella ricerca pubblica",
-    testo: "Ieri le lavoratrici e i lavoratori precari del CREA – Consiglio per la Ricerca in Agricoltura e l’Analisi dell’Economia Agraria sono scesi in piazza
-    a Roma per chiedere stabilizzazioni reali e un piano di investimenti strutturali nella ricerca pubblica. La manifestazione, con circa 400 partecipanti di
+    testo: `
+Ieri le lavoratrici e i lavoratori precari del CREA – Consiglio per la Ricerca in Agricoltura e l’Analisi dell’Economia Agraria sono scesi in piazza a Roma per chiedere stabilizzazioni reali e un piano di investimenti strutturali nella ricerca pubblica. La manifestazione, con circa 400 partecipanti di
     tutti gli enti pubblici di ricerca, organizzata insieme a FLC CGIL, si è svolta inizialmente in Piazza Capranica e si è conclusa davanti a Montecitorio,
     dove hanno preso parola anche alcuni parlamentari in sostegno della mobilitazione.Con due striscioni che sintetizzavano il senso della giornata –
     «Sovranità alimentare, precarietà abituale» e «La ricerca non si fa a tempo determinato» – il gruppo Precari in Campo (PIC) ha portato la voce di chi,
@@ -25,7 +25,7 @@ const comunicati = [
     curata e fatta crescere nel tempo, non precarizzata. Nati poco più di un anno fa come iniziativa spontanea, i Precari in Campo hanno dato vita a
     un movimento che ha saputo unire lavoratrici e lavoratori di ogni area dell’Ente — tecnici, ricercatori, amministrativi, operai — costruendo un
     nuovo spazio di partecipazione, solidarietà e rivendicazione collettiva."
-
+    `
   },
   {
     data: "12 Novembre 2025",
