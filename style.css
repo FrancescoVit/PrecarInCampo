@@ -11,8 +11,16 @@ body {
 header {
   background-color: #008000;
   color: white;
-  text-align: center;
-  padding: 2rem 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  padding: 1.5rem;
+}
+
+header .logo {
+  width: 240px;
+  height: auto;
 }
 
 header h1 {
