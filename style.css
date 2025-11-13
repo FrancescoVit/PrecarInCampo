@@ -1,6 +1,6 @@
 /* style.css */
 body {
-  font-family: system-ui, sans-serif;
+  font-family: "Courier New", Courier, monospace;
   margin: 0;
   padding: 0;
   line-height: 1.6;
@@ -9,7 +9,7 @@ body {
 }
 
 header {
-  background-color: #004080;
+  background-color: #008000;
   color: white;
   text-align: center;
   padding: 2rem 1rem;
@@ -35,7 +35,7 @@ main {
 
 .comunicato h2 {
   margin-top: 0;
-  color: #004080;
+  color: #006fad;
 }
 
 .data {
