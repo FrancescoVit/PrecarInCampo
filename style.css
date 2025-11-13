@@ -33,6 +33,13 @@ main {
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
+.comunicato .testo {
+  text-align: justify;
+  line-height: 1.8;
+  text-indent: 1.5em;
+  text-justify: inter-word;
+}
+
 .comunicato h2 {
   margin-top: 0;
   color: #006fad;

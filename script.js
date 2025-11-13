@@ -56,7 +56,7 @@ const comunicati = [
 // Seleziona il contenitore
 const container = document.getElementById("comunicati-container");
 
-// Genera dinamicamente il contenuto
+// Genera dinamicamente ogni comunicato
 comunicati.forEach(c => {
   const div = document.createElement("div");
   div.classList.add("comunicato");
@@ -64,7 +64,7 @@ comunicati.forEach(c => {
   div.innerHTML = `
     <h2>${c.titolo}</h2>
     <div class="data">${new Date(c.data).toLocaleDateString("it-IT")}</div>
-    <p>${c.testo}</p>
+    <div class="testo">${c.testo}</div>
   `;
 
   container.appendChild(div);
