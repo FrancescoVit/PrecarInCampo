@@ -3,6 +3,22 @@
 // Array dei comunicati
 const comunicati = [
   {
+    data: "18 Dicembre 2025",
+    titolo: `Assemblea Precari in Campo 2025`,
+    testo: `
+    <p>Il 17 dicembre 2025 si è tenuta, presso l’Aula Zocchi della sede del CREA-DC di Firenze, l’assemblea dei Precari in Campo.</p>
+    <p> L’evento è stato supportato da CGIL, nella persona di Giampiero Golisano, che ha indetto l’assemblea sindacale e provveduto all’organizzazione
+    della mattinata insieme alle precarie e ai precari di Firenze. Erano inoltre presenti giornalisti della testata “Collettiva” che hanno documentato
+    l'assemblea ed intervistato alcuni colleghi precari. </p>
+    <p> L’assemblea si è aperta con i saluti di Giampiero Golisano, seguiti da un ampio momento di confronto e di testimonianze di “ex- precari” del CREA che
+    hanno partecipato attivamente al movimento che ha portato all’ultima grande stabilizzazione del 2019. In tutti gli interventi delle colleghe e dei colleghi
+    strutturati del CREA-DC e del CREA-AA di Firenze è stata evidenziata l’importanza della partecipazione, anche minima, per ottenere dei risultati e l’attenzione
+    politica e mediatica che meritiamo. E’ intervenuta anche una collega del CREA-CI, principale promotrice del movimento precari del CREA che ha ottenuto le
+    stabilizzazioni nel 2019. Infine, è stato presentato un breve resoconto dell'attività del gruppo PIC nel suo primo anno di attività. Il risultato più importante
+    che l’iniziativa è riuscita ad ottenere è stato, senz’altro, il censimento dei precari, che ha dato un’idea di quale fosse il numero dei dipendenti a tempo
+    determinato assunti nell’ente e quale fosse la loro anzianità. L'assemblea è anche stata l'occasione per lanciare l'aggiornamento del censimento al 2025.</p>`
+  },
+  {
     data: "12 Novembre 2025",
     titolo: `«La ricerca non si fa a tempo determinato»
     Precari in Campo (CREA) in piazza a Roma per chiedere stabilizzazioni e investimenti nella ricerca pubblica`,
